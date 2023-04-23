@@ -48,7 +48,7 @@ list_tolerance = [("Brown", hex_brown), ("Red", hex_red), ("Orange", hex_orange)
                 ("Gold", hex_gold), ("Silver", hex_silver)]
 list_temperature = [("Brown", hex_brown), ("Red", hex_red), ("Orange", hex_orange), ("Yellow", hex_yellow),
                      ("Blue", hex_blue), ("Purple", hex_purple)]
-# ----------------- #
+
 
 # Color Value Variable #
 list_black = [0, 0, 0, 1, 1, 250]
@@ -63,5 +63,3 @@ list_gray = [80, 8, 8, 100000000, 0.0005, 1]
 list_white = [90, 9, 9, 1000000000, 1, 1]
 list_gold = [0, 0, 0, 0.1, 0.05, 1]
 list_silver = [0, 0, 0, 0.01, 0.1, 1]
-# -------------------- #
-# MADE BY @hanilr #

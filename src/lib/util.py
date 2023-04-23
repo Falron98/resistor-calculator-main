@@ -223,5 +223,3 @@ def calc_check(calc_color, number_step):
         calc_color_int = list_silver[number_step]
 
     return calc_color_int
-# --------------------- #
-# MADE BY @hanilr #
